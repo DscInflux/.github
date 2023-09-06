@@ -22,7 +22,7 @@ Do you want to expand and improve your Discord bot? TopicList is here for you!
 <h2 align='center'>
  Programming Language We Use
    
-<img src="https://skillicons.dev/icons?i=discord,tailwind,github,git,cloudflare,go,nodejs,nextjs,mongodb,react,tailwind,ts,vscode&theme=dark" />
+<img src="https://skillicons.dev/icons?i=discord,github,git,cloudflare,go,nodejs,react,nextjs,tailwind,mongodb,ts,vscode&theme=dark" />
 </div>
 
 [![DigitalOcean Referral Badge](https://web-platforms.sfo2.cdn.digitaloceanspaces.com/WWW/Badge%201.svg)](https://www.digitalocean.com/?refcode=a6b81cde8d44&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=badge)
