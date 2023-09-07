@@ -3,7 +3,7 @@
   <br> 
 </h2>
 <p>
-Do you want to expand and improve your Discord bot? TopicList is here for you!
+Find and add new friends on Discord the easy way.
 </p>
 
 <hr>
