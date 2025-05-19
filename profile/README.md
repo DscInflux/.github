@@ -1,6 +1,6 @@
 # Dscinflux
 
-**Dscinflux** helps you find and add new friends on **Discord** and **Revolt**—quickly, easily, and without the spam. Whether you're looking to grow your server or just meet people with similar interests, Dscinflux makes connecting simple.
+**Dscinflux** helps you find and add new friends on **Discord**, **Revolt** and more platforms coming soon—quickly, easily, and without the spam. Whether you're looking to grow your server or just meet people with similar interests, Dscinflux makes connecting simple.
 
 ---
 
