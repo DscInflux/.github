@@ -1,27 +1,28 @@
-<h2 align='center'>
-  <img src="https://pbs.twimg.com/profile_banners/1690628663971041280/1694208601/1500x500" />
-  <br> 
-</h2>
-<p>
-Find and add new friends on Discord the easy way.
-</p>
+# Dscinflux
 
-<hr>
+**Dscinflux** helps you find and add new friends on **Discord** and **Revolt**—quickly, easily, and without the spam. Whether you're looking to grow your server or just meet people with similar interests, Dscinflux makes connecting simple.
 
-<h2>
-  Our Links
-</h2>
+---
 
-<ul>
-  <li><a href="https://dscinflux.xyz">Website</a></li>
-<li><a href="https://beta.dscinflux.xyz">Beta</a></li>
-  <li><a href="https://discord.gg/p2S5QMKw3X">Discord</a></li>
-<li><a href="https://infinitybots.gg">Credits to infinitybots!</a></li
-</ul>
+## 🌐 What is Dscinflux?
 
-<h2 align='center'>
- Programming Language We Use
-   
-<img src="https://skillicons.dev/icons?i=discord,github,git,cloudflare,go,ts,nodejs,react,svelte,vue,nextjs,tailwind,mongodb,vscode&theme=dark" />
-</div>
-</h2>
+Dscinflux is a platform and service designed to help users discover new connections across Discord and Revolt. It works by showcasing public profiles, friend codes, and interests in a clean, searchable format.
+
+---
+
+## ✨ Features
+
+- 🔍 Browse public profiles by interest or tag  
+- 🤝 Cross-platform: supports Discord and Revolt  
+- 📬 One-click friend request links  
+- 🧾 Custom bios, usernames, and searchable tags  
+- 🔒 Privacy-first — no weird tracking, no spam  
+
+---
+
+## 📦 Usage
+
+Dscinflux is currently a hosted platform. Visit:
+👉 [https://dscinflux.xyz/](https://dscinflux.xyz/)
+Create a profile, explore others, and start making new friends in seconds.
+> **Note:** You’ll need a Discord or Revolt account to use Dscinflux.
