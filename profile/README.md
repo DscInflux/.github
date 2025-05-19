@@ -24,5 +24,6 @@ Dscinflux is a platform and service designed to help users discover new connecti
 
 Dscinflux is currently a hosted platform. Visit:
 👉 [https://dscinflux.xyz/](https://dscinflux.xyz/)
+
 Create a profile, explore others, and start making new friends in seconds.
 > **Note:** You’ll need a Discord or Revolt account to use Dscinflux.
