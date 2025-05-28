@@ -13,7 +13,7 @@ Dscinflux is a platform and service designed to help users discover new connecti
 ## ✨ Features
 
 - 🔍 Browse public profiles by interest or tag  
-- 🤝 Cross-platform: supports Discord and Revolt  
+- 🤝 Cross-platform: supports Discord, X and Github (more coming soon).  
 - 📬 One-click friend request links  
 - 🧾 Custom bios, usernames, and searchable tags  
 - 🔒 Privacy-first — no weird tracking, no spam  
@@ -26,4 +26,4 @@ Dscinflux is currently a hosted platform. Visit:
 👉 [https://dscinflux.xyz/](https://dscinflux.xyz/)
 
 Create a profile, explore others, and start making new friends in seconds.
-> **Note:** You’ll need a Discord or a Twitter/X or a Github account to use Dscinflux.
+> **Note:** You’ll need a Discord or a Twitter/X, or a Github account to use Dscinflux.
