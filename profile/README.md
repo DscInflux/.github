@@ -1,6 +1,6 @@
 # Dscinflux
 
-**Dscinflux** helps you find and add new friends on **Discord**, **Revolt** and more platforms coming soon—quickly, easily, and without the spam. Whether you're looking to grow your server or just meet people with similar interests, Dscinflux makes connecting simple.
+**Dscinflux** helps you find and add new friends on **Discord**, **Twitter/X**,  **Github** and more platforms coming soon—quickly, easily, and without the spam. Whether you're looking to grow your server or just meet people with similar interests, Dscinflux makes connecting simple.
 
 ---
 
@@ -26,4 +26,4 @@ Dscinflux is currently a hosted platform. Visit:
 👉 [https://dscinflux.xyz/](https://dscinflux.xyz/)
 
 Create a profile, explore others, and start making new friends in seconds.
-> **Note:** You’ll need a Discord or Revolt account to use Dscinflux.
+> **Note:** You’ll need a Discord or a Twitter/X or a Github account to use Dscinflux.
